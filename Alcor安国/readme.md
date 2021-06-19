@@ -1,0 +1,3 @@
+#Alcor安国
+
+* ALCOR U2 MP v21.04.20.00【89SN-GTC/GTD/GTE、89SN-TA】
